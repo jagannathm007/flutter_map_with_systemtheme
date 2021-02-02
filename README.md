@@ -7,4 +7,5 @@ Flutter google map with dark & light mode according to system theme
 Here you will can easily change theme from light to dark or with system theme.
 
 ## Things Needed
--
+- google_maps_flutter:
+- get:
